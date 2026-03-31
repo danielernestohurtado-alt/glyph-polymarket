@@ -1,0 +1,13 @@
+{
+  "name": "glyph-polymarket-pro",
+  "version": "3.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2"
+  }
+}
